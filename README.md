@@ -1,11 +1,11 @@
-# Erudit Crowdfunding Campaign Plan
+# Erudit Crowdfunding Campaign
 
 > My first steps with and without screens.
 
 ![What is Erudit ?](./assets/images/title1.webp)
 
-Erudit is an app that supports **parents and children** in their **first steps** with screens, through interactive **cultural adventures** that blend **animation** with **real-world discovery**.
-We follow **Eruh & Hudit**, kindhearted grandparents with a passion for history and culture, and their **grandson** as they embark on countless adventures that help him **learn, grow, and discover the world**.
+Erudit is an app that supports **parents and children** in their **first steps with screens**, through interactive cultural adventures that blend animation with **real-world discovery**.
+We follow **Eruh & Hudit**, kindhearted grandparents with a passion for history and culture, and their grandson as they embark on countless adventures that help him **learn, grow, and discover the world**.
 
 > All of our illustrations, animations, and music are **created by humans**, whom we proudly feature in the application.
 
@@ -25,7 +25,7 @@ Designed for **healthy screen time**, the app offers **only one short animated s
 
 ### Story review
 
-Erudit's stories do not contain voices, a strong artistic choice, to open up dialogue between parents and children, and to highlight music as a way of evoking emotions.
+Erudit's stories **do not contain voices**, a strong artistic choice, to open up dialogue between parents and children, and to highlight music as a way of evoking emotions.
 Once the story is over, the anime is revisited scene by scene, to relive the important moments and better grasp the storyline.
 
 ### Knowledge quizzes
@@ -48,8 +48,8 @@ The app takes care of re-asking questions at smart, well-timed intervals, so cul
 
 ### Location access & QR code scanning
 
-Each story is rooted in a real cultural landmark. With a single tap, parents can open their map app to locate the site, plan a visit, explore nearby places, or simply connect the story to the real world.  
-When families visit the location in real life and scan the QR code on site, they unlock Erudit’s secrets...
+Each story is rooted in a **real cultural landmark**. With a single tap, parents can open their map app to locate the site, plan a visit, explore nearby places, or simply connect the story to the real world.  
+When families visit the location in real life and scan the QR code on site, they unlock **Erudit’s secrets**...
 
 <p align="center">
   <img width="200px" alt="Location access & QR code scanning" src="./assets/images/title2_5.webp"/>
@@ -57,8 +57,8 @@ When families visit the location in real life and scan the QR code on site, they
 
 ### Artist links
 
-Erudit highlights their work by providing direct links to their websites, where families can discover the creators behind the stories.
-Families can directly support the artists by purchasing the items or projects they offer.
+Erudit highlights their work by providing **direct links to their websites**, where families can discover the creators behind the stories.
+Families can directly support the artists by **purchasing the items or projects they offer**.
 
 <p align="center">
   <img width="200px" alt="Artist links" src="./assets/images/title2_6.webp"/>
@@ -88,7 +88,7 @@ More than an app, Erudit is a creative universe designed to help parents and chi
 * **Eruh**, the storyteller, shares his tales with passion, captivating the audience with unforgettable emotions and anecdotes.
 * **Hudit**, the giver, turns these stories into carefully designed quizzes, helping everyone learn smoothly and remember more easily.
 
-Centuries ago, Eruh and Hudit were part of a **secret ancient order**, the Guardians of History.
+Centuries ago, **Eruh and Hudit** were part of a secret ancient order, **the Guardians of History**.
 This order of scholars was tasked with protecting historical stories to ensure they would never be lost over time.
 
 They believed that **well-preserved knowledge could guide future civilizations**, helping them avoid past mistakes and transmit noble values such as kindness, wisdom, and respect.
@@ -109,14 +109,14 @@ Based on the results and feedback from this first edition, the project can gradu
 
 ![Why a Crowdfunding Campaign?](./assets/images/title6.webp)
 
-We made a conscious choice: **not to rely on AI**, but to collaborate with real artists, real hands, real sensibilities, to bring our animated stories to life.
+We made a conscious choice: collaborate with real artists, real hands, real sensibilities, to bring our animated stories to life.
 This is **costly and hard to support at this stage**.
 We need your support to **launch this beautiful project**, have enough content to generate early revenue, and increase visibility to attract public funding and partners.
 By supporting us, you become a **co-producer of Erudit**, actively participating in our adventure while supporting the artists involved.
 
 ![How You Can Support Erudit](./assets/images/title7.webp)
 
-* **Fund the project** according to your means. Your support will be rewarded with **unique perks**, and you will follow the production step by step.
+* Fund the project according to your means. Your support will be rewarded with **unique perks**, and you will follow the production step by step.
 * **Spread the word** about Erudit to friends, family, and colleagues, and share our campaign on social media. Every share is a huge help!
 
 ![Rewards](./assets/images/title8.webp)
