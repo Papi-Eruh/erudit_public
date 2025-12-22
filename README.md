@@ -1,7 +1,6 @@
 # Erudit Crowdfunding Campaign Plan
 
 > My first steps with and without screens.
-
 ![What is Erudit ?](./assets/images/title1.webp)
 
 Erudit is an app that supports **parents and children** in their **first steps** with screens, through interactive **cultural adventures** that blend **animation** with **real-world discovery**.
@@ -17,6 +16,7 @@ We follow **Eruh & Hudit**, kindhearted grandparents with a passion for history 
 ### Interactive animated stories
 
 Designed for **healthy screen time**, the app offers **only one short animated story per day**. Centered on a cultural landmark, it brings history to life through the adventures of our characters, while gently conveying meaningful life lessons.
+
 <p align="center">
   <img width="200px" alt="Interactive animated stories" src="./assets/images/title2_1.webp"/>
 </p>
@@ -30,25 +30,37 @@ Once the story is over, the anime is revisited scene by scene, to relive the imp
 
 After watching the story, children and parents can go through short, playful quizzes that revisit the key moments of the episode.  
 Each question is directly linked to a specific scene, helping children check their understanding, and encourage discussion around what they have just discovered.
-![Knowledge quizzes](./assets/images/title2_3.webp)
+
+<p align="center">
+  <img width="200px" alt="Knowledge quizzes" src="./assets/images/title2_3.webp"/>
+</p>
 
 ### Spaced-repetition system
 
 To help knowledge truly stick, Erudit uses a spaced-repetition system.
 The app takes care of re-asking questions at smart, well-timed intervals, so cultural knowledge stays anchored in children’s minds for as long as possible.
-![Spaced-repetition system](./assets/images/title2_4.webp)
+
+<p align="center">
+  <img width="200px" alt="Spaced-repetition system" src="./assets/images/title2_4.webp"/>
+</p>
 
 ### Location access & QR code scanning
 
 Each story is rooted in a real cultural landmark. With a single tap, parents can open their map app to locate the site, plan a visit, explore nearby places, or simply connect the story to the real world.  
 When families visit the location in real life and scan the QR code on site, they unlock Erudit’s secrets...
-![Location access & QR code scanning](./assets/images/title2_5.webp)
+
+<p align="center">
+  <img width="200px" alt="Location access & QR code scanning" src="./assets/images/title2_5.webp"/>
+</p>
 
 ### Artist links
 
 Erudit highlights their work by providing direct links to their websites, where families can discover the creators behind the stories.
 Families can directly support the artists by purchasing the items or projects they offer.
-![Artist links](./assets/images/title2_6.webp)
+
+<p align="center">
+  <img width="200px" alt="Artist links" src="./assets/images/title2_6.webp"/>
+</p>
 
 ### A smooth, safe and offline-first experience
 
