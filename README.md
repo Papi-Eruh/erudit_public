@@ -1,10 +1,16 @@
 # Erudit Crowdfunding Campaign Plan
 
+![What is Erudit ?](./assets/images/title1.webp)
+
+Erudit is an app that supports **parents and children** in their **first steps** with screens, through interactive **cultural adventures** that blend **animation** with **real-world discovery**.
+We follow **Eruh & Hudit**, kindhearted grandparents with a passion for history and culture, and their **grandson** as they embark on countless adventures that help him **learn, grow, and discover the world**.
+![What is Erudit ? Footer](./assets/images/title1_footer.webp)
+
 > **Ever since I was little, one of my passions has been cartoons.**
 >
 > I can't count the emotions that all these works have made me feel.
 > * I dreamed of flying on the back of Toothless.
-> * Sometimes, I wished I could be guided by Iroh's kindness and wisdom.
+> * I wished I could be guided by Iroh's kindness and wisdom.
 > * The tragedies of the sisters Vi and Powder tore me appart for weeks. 
 > * Frieren taught me to cherish every moment.
 >
@@ -15,13 +21,6 @@
 >
 > All of our illustrations, animations, and music are **created by humans**, whom we proudly feature in the application.
 
-![What is Erudit ?](./assets/images/title1.webp)
-
-Erudit is an app that supports parents and children in their first steps with screens, through interactive cultural adventures that blend animation with real-world discovery.
-We follow Eruh & Hudit, kindhearted grandparents with a passion for history and culture, and their grandson as they embark on countless adventures that help him learn, grow, and discover the world.
-
-![What is Erudit ? Footer](./assets/images/title1_footer.webp)
-
 ![What do we do with Erudit ?](./assets/images/title2.webp)
 
 > Erudit is the experience we would love to share with our children. 
@@ -29,6 +28,7 @@ We follow Eruh & Hudit, kindhearted grandparents with a passion for history and 
 ### Interactive animated stories
 
 Designed for **healthy screen time**, the app offers **only one short animated story per day**. Centered on a cultural landmark, it brings history to life through the adventures of our characters, while gently conveying meaningful life lessons.
+![Interactive animated stories](./assets/images/title2_1.webp)
 
 ### Story review
 
@@ -39,21 +39,25 @@ Once the story is over, the anime is revisited scene by scene, to relive the imp
 
 After watching the story, children and parents can go through short, playful quizzes that revisit the key moments of the episode.  
 Each question is directly linked to a specific scene, helping children check their understanding, and encourage discussion around what they have just discovered.
+![Knowledge quizzes](./assets/images/title2_3.webp)
 
 ### Spaced-repetition system
 
 To help knowledge truly stick, Erudit uses a spaced-repetition system.
 The app takes care of re-asking questions at smart, well-timed intervals, so cultural knowledge stays anchored in children’s minds for as long as possible.
+![Spaced-repetition system](./assets/images/title2_4.webp)
 
 ### Location access & QR code scanning
 
 Each story is rooted in a real cultural landmark. With a single tap, parents can open their map app to locate the site, plan a visit, explore nearby places, or simply connect the story to the real world.  
 When families visit the location in real life and scan the QR code on site, they unlock Erudit’s secrets...
+![Location access & QR code scanning](./assets/images/title2_5.webp)
 
 ### Artist links
 
 Erudit highlights their work by providing direct links to their websites, where families can discover the creators behind the stories.
 Families can directly support the artists by purchasing the items or projects they offer.
+![Artist links](./assets/images/title2_6.webp)
 
 ### A smooth, safe and offline-first experience
 
