@@ -1,12 +1,14 @@
 # Erudit Crowdfunding Campaign Plan
 
 > My first steps with and without screens.
+
 ![What is Erudit ?](./assets/images/title1.webp)
 
 Erudit is an app that supports **parents and children** in their **first steps** with screens, through interactive **cultural adventures** that blend **animation** with **real-world discovery**.
 We follow **Eruh & Hudit**, kindhearted grandparents with a passion for history and culture, and their **grandson** as they embark on countless adventures that help him **learn, grow, and discover the world**.
 
 > All of our illustrations, animations, and music are **created by humans**, whom we proudly feature in the application.
+
 ![What is Erudit ? Footer](./assets/images/title1_footer.webp)
 
 ![What do we do with Erudit ?](./assets/images/title2.webp)
