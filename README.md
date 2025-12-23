@@ -9,7 +9,7 @@ We follow **Eruh & Hudit**, kindhearted grandparents with a passion for history 
 
 > All of our illustrations, animations, and music are **created by humans**, whom we proudly feature in the application.
 
-![What is Erudit ? Footer](./assets/images/title1_footer.webp)
+![What is Erudit ? Footer](./assets/images/footer1.webp)
 
 ![What do we do with Erudit ?](./assets/images/title2.webp)
 
@@ -20,7 +20,7 @@ We follow **Eruh & Hudit**, kindhearted grandparents with a passion for history 
 Designed for **healthy screen time**, the app offers **only one short animated story per day**. Centered on a cultural landmark, it brings history to life through the adventures of our characters, while gently conveying meaningful life lessons.
 
 <p align="center">
-  <img width="200px" alt="Interactive animated stories" src="./assets/images/title2_1.webp"/>
+  <img width="200px" alt="Interactive animated stories" src="./assets/images/screenshot1.webp"/>
 </p>
 
 ### Story review
@@ -34,7 +34,7 @@ After watching the story, children and parents can go through short, playful qui
 Each question is directly linked to a specific scene, helping children check their understanding, and encourage discussion around what they have just discovered.
 
 <p align="center">
-  <img width="200px" alt="Knowledge quizzes" src="./assets/images/title2_3.webp"/>
+  <img width="200px" alt="Knowledge quizzes" src="./assets/images/screenshot2.webp"/>
 </p>
 
 ### Spaced-repetition system
@@ -43,7 +43,7 @@ To help knowledge truly stick, Erudit uses a spaced-repetition system.
 The app takes care of re-asking questions at smart, well-timed intervals, so cultural knowledge stays anchored in children’s minds for as long as possible.
 
 <p align="center">
-  <img width="200px" alt="Spaced-repetition system" src="./assets/images/title2_4.webp"/>
+  <img width="200px" alt="Spaced-repetition system" src="./assets/images/screenshot3.webp"/>
 </p>
 
 ### Location access & QR code scanning
@@ -52,7 +52,7 @@ Each story is rooted in a **real cultural landmark**. With a single tap, parents
 When families visit the location in real life and scan the QR code on site, they unlock **Erudit’s secrets**...
 
 <p align="center">
-  <img width="200px" alt="Location access & QR code scanning" src="./assets/images/title2_5.webp"/>
+  <img width="200px" alt="Location access & QR code scanning" src="./assets/images/screenshot4.webp"/>
 </p>
 
 ### Artist links
@@ -61,7 +61,7 @@ Erudit highlights their work by providing **direct links to their websites**, wh
 Families can directly support the artists by **purchasing the items or projects they offer**.
 
 <p align="center">
-  <img width="200px" alt="Artist links" src="./assets/images/title2_6.webp"/>
+  <img width="200px" alt="Artist links" src="./assets/images/screenshot5.webp"/>
 </p>
 
 ### A smooth, safe and offline-first experience
@@ -83,6 +83,8 @@ It gently introduces essential digital tools while sparking real-world explorati
 
 More than an app, Erudit is a creative universe designed to help parents and children grow, learn, and open up to the world together.
 
+![lesillustrationsdelou](./assets/images/footer3.webp)
+
 ![Erudit's Universe](./assets/images/title4.webp)
 
 * **Eruh**, the storyteller, shares his tales with passion, captivating the audience with unforgettable emotions and anecdotes.
@@ -94,7 +96,7 @@ This order of scholars was tasked with protecting historical stories to ensure t
 They believed that **well-preserved knowledge could guide future civilizations**, helping them avoid past mistakes and transmit noble values such as kindness, wisdom, and respect.
 
 The members of this order possessed a mysterious power… but that’s for you to discover!
-![Erudit's Universe Footer](./assets/images/title4_footer.webp)
+![Erudit's Universe Footer](./assets/images/footer2.webp)
 
 ![What Are We Preparing for This First Edition?](./assets/images/title5.webp)
 
@@ -107,6 +109,8 @@ Every story will be **fully illustrated and set to music by local artists**, clo
 
 Based on the results and feedback from this first edition, the project can gradually expand—exploring **more regions & countries**, with the community helping to choose which places will be highlighted next.
 
+![Pollen Toxique](./assets/images/footer6.webp)
+
 ![Why a Crowdfunding Campaign?](./assets/images/title6.webp)
 
 We made a conscious choice: collaborate with real artists, real hands, real sensibilities, to bring our animated stories to life.
@@ -114,10 +118,14 @@ This is **costly and hard to support at this stage**.
 We need your support to **launch this beautiful project**, have enough content to generate early revenue, and increase visibility to attract public funding and partners.
 By supporting us, you become a **co-producer of Erudit**, actively participating in our adventure while supporting the artists involved.
 
+![Justine Ghyselen](./assets/images/footer4.webp)
+
 ![How You Can Support Erudit](./assets/images/title7.webp)
 
 * Fund the project according to your means. Your support will be rewarded with **unique perks**, and you will follow the production step by step.
 * **Spread the word** about Erudit to friends, family, and colleagues, and share our campaign on social media. Every share is a huge help!
+
+![Fooxyla](./assets/images/footer5.webp)
 
 ![Rewards](./assets/images/title8.webp)
 
