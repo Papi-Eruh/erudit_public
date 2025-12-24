@@ -83,7 +83,7 @@ It gently introduces essential digital tools while sparking real-world explorati
 
 More than an app, Erudit is a creative universe designed to help parents and children grow, learn, and open up to the world together.
 
-![lesillustrationsdelou](./assets/images/footer3.webp)
+![Why create Erudit footer](./assets/images/footer2.webp)
 
 ![Erudit's Universe](./assets/images/title4.webp)
 
@@ -96,7 +96,8 @@ This order of scholars was tasked with protecting historical stories to ensure t
 They believed that **well-preserved knowledge could guide future civilizations**, helping them avoid past mistakes and transmit noble values such as kindness, wisdom, and respect.
 
 The members of this order possessed a mysterious power… but that’s for you to discover!
-![Erudit's Universe Footer](./assets/images/footer2.webp)
+
+[![lesillustrationsdelou](./assets/images/footer3.webp)](https://lesillustrationsdelou.com)
 
 ![What Are We Preparing for This First Edition?](./assets/images/title5.webp)
 
@@ -109,7 +110,7 @@ Every story will be **fully illustrated and set to music by local artists**, clo
 
 Based on the results and feedback from this first edition, the project can gradually expand—exploring **more regions & countries**, with the community helping to choose which places will be highlighted next.
 
-![Pollen Toxique](./assets/images/footer6.webp)
+[![Fooxyla](./assets/images/footer5.webp)](http://www.fooxyla.com)
 
 ![Why a Crowdfunding Campaign?](./assets/images/title6.webp)
 
@@ -118,14 +119,14 @@ This is **costly and hard to support at this stage**.
 We need your support to **launch this beautiful project**, have enough content to generate early revenue, and increase visibility to attract public funding and partners.
 By supporting us, you become a **co-producer of Erudit**, actively participating in our adventure while supporting the artists involved.
 
-![Justine Ghyselen](./assets/images/footer4.webp)
+[![Justine Ghyselen](./assets/images/footer4.webp)(https://www.instagram.com/justine.ghyselen/)
 
 ![How You Can Support Erudit](./assets/images/title7.webp)
 
 * Fund the project according to your means. Your support will be rewarded with **unique perks**, and you will follow the production step by step.
 * **Spread the word** about Erudit to friends, family, and colleagues, and share our campaign on social media. Every share is a huge help!
 
-![Fooxyla](./assets/images/footer5.webp)
+[![Pollen Toxique](./assets/images/footer6.webp)](https://pollentoxique.myportfolio.com)
 
 ![Rewards](./assets/images/title8.webp)
 
