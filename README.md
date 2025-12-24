@@ -40,13 +40,18 @@ the app offers **one short animated story per day**, allowing everyone to discov
 Erudit's stories **do not contain voices**, a strong artistic choice, to open up dialogue between parents and children, and to highlight music as a way of evoking emotions.
 Once the story is over, the anime is revisited scene by scene, to relive the important moments and better grasp the storyline.
 
+<p align="center">
+  <img width="200px" alt="Story review" src="./assets/images/screenshot6.webp"/>
+</p>
+
 ### Knowledge quizzes
 
 After watching the story, children and parents can go through short, playful quizzes that revisit the key moments of the episode.  
 Each question is directly linked to a specific scene, helping children check their understanding, and encourage discussion around what they have just discovered.
 
 <p align="center">
-  <img width="200px" alt="Knowledge quizzes" src="./assets/images/screenshot2.webp"/>
+  <img width="200px" alt="Knowledge quizzes" src="./assets/images/screenshot2.webp" style="margin-right:16px;"/>
+  <img width="200px" alt="Knowledge quizzes 2" src="./assets/images/screenshot2_1.webp"/>
 </p>
 
 ### Spaced-repetition system
