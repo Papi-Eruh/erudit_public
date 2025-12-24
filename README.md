@@ -49,10 +49,10 @@ Once the story is over, the anime is revisited scene by scene, to relive the imp
 After watching the story, children and parents can go through short, playful quizzes that revisit the key moments of the episode.  
 Each question is directly linked to a specific scene, helping children check their understanding, and encourage discussion around what they have just discovered.
 
-<p align="center">
-  <img width="200px" alt="Knowledge quizzes" src="./assets/images/screenshot2.webp" style="margin-right:16px;"/>
+<div style="display:flex; justify-content: space-evenly; align-items:center;">
+  <img width="200px" alt="Knowledge quizzes" src="./assets/images/screenshot2.webp"/>
   <img width="200px" alt="Knowledge quizzes 2" src="./assets/images/screenshot2_1.webp"/>
-</p>
+</div>
 
 ### Spaced-repetition system
 
