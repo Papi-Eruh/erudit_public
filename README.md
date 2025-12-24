@@ -1,13 +1,21 @@
 # Erudit Crowdfunding Campaign
 
-> My first steps with and without screens.
+> A recent technology once made us believe we could finally fulfill a childhood dream: creating our own cartoons.  
+> But what emerged were works without depth — no story, no effort, **no soul**.
+>
+> True creation is never instantaneous.  
+> It is born from the creative process: the doubts, the trials, the wrong turns, the persistence.  
+> It is the personality and the soul of the artists that breathe life into a work.
+>
+> It was from this belief that Erudit made its **most important shift**:  
+> choosing to work **only with real artists**, whom we proudly feature in the application.
 
 ![What is Erudit ?](./assets/images/title1.webp)
 
+> My first steps with and without screens.
+
 Erudit is an app that supports **parents and children** in their **first steps with screens**, through interactive cultural adventures that blend animation with **real-world discovery**.
 We follow **Eruh & Hudit**, kindhearted grandparents with a passion for history and culture, and their grandson as they embark on countless adventures that help him **learn, grow, and discover the world**.
-
-> All of our illustrations, animations, and music are **created by humans**, whom we proudly feature in the application.
 
 ![What is Erudit ? Footer](./assets/images/footer1.webp)
 
@@ -139,19 +147,6 @@ By supporting us, you become a **co-producer of Erudit**, actively participating
 *(What gets unlocked when funding milestones are reached)*
 
 ![Acknowledgements](./assets/images/title10.webp)
-
-> **Ever since I was little, one of my passions has been cartoons.**
->
-> I can't count the emotions that all these works have made me feel.
-> * I dreamed of flying on the back of Toothless.
-> * I wished I could be guided by Iroh's kindness and wisdom.
-> * The tragedies of the sisters Vi and Powder tore me appart for weeks. 
-> * Frieren taught me to cherish every moment.
->
-> A certain recent technology made me believe that I could fulfill my childhood dream of creating my own works.
-> Works that were dull, without story, without effort, **without soul**.
->
-> It is the sum of the creative process, the efforts, the questioning, the changes in direction... It is the personality and soul of the artists that emanate from their works. It was with this premise that Erudit made its **most important shift**: The choice to work **only with real artists**. 
 
 Thanks to all the amazing people who have collaborated on this project. You make our life a dream.
 
