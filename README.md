@@ -50,7 +50,8 @@ After watching the story, children and parents can go through short, playful qui
 Each question is directly linked to a specific scene, helping children check their understanding, and encourage discussion around what they have just discovered.
 
 <p align="center">
-  <img width="200px" alt="Knowledge quizzes" src="./assets/images/screenshot2.webp" style="margin-right:64px;"/>
+  <img width="200px" alt="Knowledge quizzes" src="./assets/images/screenshot2.webp"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <img width="200px" alt="Knowledge quizzes 2" src="./assets/images/screenshot2_1.webp"/>
 </p>
 
