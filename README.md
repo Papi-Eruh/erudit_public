@@ -25,7 +25,11 @@ We follow **Eruh & Hudit**, kindhearted grandparents with a passion for history 
 
 ### Interactive animated stories
 
-Designed for **healthy screen time**, the app offers **only one short animated story per day**. Centered on a cultural landmark, it brings history to life through the adventures of our characters, while gently conveying meaningful life lessons.
+The experience begins in the real world.  
+By visiting cultural landmarks and scanning the QR code on site, users unlock animated stories rooted in the very places they are exploring.
+
+And because not everyone can access these locations right away, Erudit is also designed for **healthy screen time**:  
+the app offers **one short animated story per day**, allowing everyone to discover history through the adventures of our characters, while gently conveying meaningful life lessons.
 
 <p align="center">
   <img width="200px" alt="Interactive animated stories" src="./assets/images/screenshot1.webp"/>
@@ -127,7 +131,7 @@ This is **costly and hard to support at this stage**.
 We need your support to **launch this beautiful project**, have enough content to generate early revenue, and increase visibility to attract public funding and partners.
 By supporting us, you become a **co-producer of Erudit**, actively participating in our adventure while supporting the artists involved.
 
-[![Justine Ghyselen](./assets/images/footer4.webp)(https://www.instagram.com/justine.ghyselen/)
+[![Justine Ghyselen](./assets/images/footer4.webp)](https://www.instagram.com/justine.ghyselen/)
 
 ![How You Can Support Erudit](./assets/images/title7.webp)
 
