@@ -25,11 +25,11 @@ We follow **Eruh & Hudit**, kindhearted grandparents with a passion for history 
 
 ### Interactive animated stories
 
-The experience begins in the real world.  
-By visiting cultural landmarks and scanning the QR code on site, users unlock animated stories rooted in the very places they are exploring.
+The experience begins in the real world: By visiting cultural landmarks and scanning the QR code on site, users unlock animated stories rooted in the very places they are exploring.
 
-And because not everyone can access these locations right away, Erudit is also designed for **healthy screen time**:  
-the app offers **one short animated story per day**, allowing everyone to discover history through the adventures of our characters, while gently conveying meaningful life lessons.
+And because not everyone can access these locations right away, Erudit is also designed for **healthy screen time**: the app offers **one short animated story per day**, allowing everyone to discover history through the adventures of our characters, while gently conveying meaningful life lessons.
+
+Today, animated films are cut faster than ever, with shots often lasting less than three seconds. At Erudit, **our shots last at least six seconds**, giving children time to watch, understand, and stay focused.
 
 <p align="center">
   <img width="200px" alt="Interactive animated stories 1" src="./assets/images/screenshot1_1.webp"/>
@@ -86,9 +86,8 @@ Families can directly support the artists by **purchasing the items or projects 
   <img width="200px" alt="Artist links" src="./assets/images/screenshot5.webp"/>
 </p>
 
-### A smooth, safe and offline-first experience
+### A Safe and offline-first experience
 
-All our stories are designed with ultra-smooth animations, reaching up to **120 frames per second**, to offer a seamless and immersive viewing experience.  
 Erudit collects **no personal data** and works **entirely offline**, ensuring a safe, private, and accessible experience for children and families.
 
 ![Why Create Erudit?](./assets/images/title3.webp)
