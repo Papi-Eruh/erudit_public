@@ -32,7 +32,11 @@ And because not everyone can access these locations right away, Erudit is also d
 the app offers **one short animated story per day**, allowing everyone to discover history through the adventures of our characters, while gently conveying meaningful life lessons.
 
 <p align="center">
-  <img width="200px" alt="Interactive animated stories" src="./assets/images/screenshot1.webp"/>
+  <img width="200px" alt="Interactive animated stories 1" src="./assets/images/screenshot1_1.webp"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img width="200px" alt="Interactive animated stories 2" src="./assets/images/screenshot1_2.webp"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img width="200px" alt="Interactive animated stories 3" src="./assets/images/screenshot1.webp"/>
 </p>
 
 ### Story review
