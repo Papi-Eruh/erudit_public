@@ -153,7 +153,48 @@ By supporting us, you become a **co-producer of Erudit**, actively participating
 
 ![Reward example](./assets/images/rewards.webp)
 
-*(List of reward tiers with images, e.g., digital cards, exclusive content, etc.)*
+## ⚓️ Deckhand on Board  
+**Price: $5**
+
+- Erudit digital wallpaper  
+- **“Deckhand on Board”** badge  
+- Name listed in the project thank-you credits  
+
+## 🚀 Space Traveler  
+**Price: $30**
+
+Includes all previous rewards, plus:
+
+- **Lifetime access** to all stories from the **1st France Edition** of Erudit, available when the app officially launches  
+- **“Space Traveler”** badge in the app  
+
+## ⏳ Time Captain  
+**Price: $60**
+
+Includes all previous rewards, plus:
+
+- **Early access** to the Erudit app (before public release)  
+- **Lifetime access** to all application background themes  
+- **Early access** to behind-the-scenes Erudit content (via Discord), before it is shared on social media  
+- Your name listed in the **credits of the app and the official website**  
+- **“Time Captain”** badge in the app  
+
+## 🏛️ Guardian of History  
+**Price: $120**
+
+Includes all previous rewards, plus:
+
+- A **collaborative exclusive anecdote**  
+  - Help shape the story by voting on the **location, historical period, and characters**  
+  - Your name (or your child’s name) will appear in the episode credits  
+- **Digital Artbook – The Making of the 1st France Edition**, including:  
+  - visual research  
+  - character design (Eruh & Hudit)  
+  - environments by historical period  
+  - graphic evolution  
+- **“Guardian of History”** badge in the app  
+
+> *All rewards are 100% digital. No physical shipping involved.*
 
 ![Stretch Goals](./assets/images/title9.webp)
 
@@ -193,3 +234,9 @@ The movement of young entrepreneurs who are changing the world.
 ### Contributors
 
 [Papi-Eruh](https://github.com/Papi-Eruh)
+
+## Contact
+
+* <https://erudit.app>
+* <contact@erudit.app>
+
