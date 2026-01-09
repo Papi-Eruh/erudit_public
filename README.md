@@ -1,5 +1,7 @@
 # Erudit Crowdfunding Campaign
 
+![Erudit banner](./assets/images/banner.webp)
+
 > A recent technology once made us believe we could finally fulfill a childhood dream: creating our own cartoons.  
 > But what emerged were works without depth — no story, no effort, **no soul**.
 >
@@ -154,51 +156,125 @@ By supporting us, you become a **co-producer of Erudit**, actively participating
 ![Reward example](./assets/images/rewards.webp)
 
 ## ⚓️ Deckhand on Board  
-**Price: $5**
+**Pledge: $5**
 
-- Erudit digital wallpaper  
-- **“Deckhand on Board”** badge  
-- Name listed in the project thank-you credits  
+**Every journey begins with a first step.**  
+By joining the crew, you help bring Erudit to life and support a new way of discovering history—calm, thoughtful, and made to last.
 
-## 🚀 Space Traveler  
-**Price: $30**
+* **Official Digital Wallpaper**  
+  An exclusive high-resolution illustration for mobile or desktop.
+* **“Deckhand on Board” Badge**  
+  A special badge showing you supported Erudit from the very beginning.
+* **Hall of Thanks**  
+  Your name listed in the project’s official thank-you credits.
 
-Includes all previous rewards, plus:
+---
 
-- **Lifetime access** to all stories from the **1st France Edition** of Erudit, available when the app officially launches  
-- **“Space Traveler”** badge in the app  
+## 🚀 Erudit – France 1st Edition (Lifetime Access)
+**Pledge: $30**
 
-## ⏳ Time Captain  
-**Price: $60**
+**The heart of the project.**  
+This pledge gives you access to the complete first edition of Erudit, designed as a lasting cultural experience to explore at your own pace.
 
-Includes all previous rewards, plus:
+**Includes all previous rewards, plus:**
 
-- **Early access** to the Erudit app (before public release)  
-- **Lifetime access** to all application background themes  
-- **Early access** to behind-the-scenes Erudit content (via Discord), before it is shared on social media  
-- Your name listed in the **credits of the app and the official website**  
-- **“Time Captain”** badge in the app  
+* **📚 Lifetime Access to the France Edition**  
+  Enjoy **all animated stories from the 1st France Edition**, permanently.  
+  No subscriptions, no ads—just thoughtful content available when the app officially launches.
+* **“Space Traveler” Badge**  
+  A badge displayed in the app, marking you as one of the first explorers of Erudit.
+
+---
 
 ## 🏛️ Guardian of History  
-**Price: $120**
+**Pledge: $80**
 
-Includes all previous rewards, plus:
+**Take part in the making of history.**  
+As a Guardian of History, you go beyond discovering stories—you help shape them, alongside the Erudit team.
 
-- A **collaborative exclusive anecdote**  
-  - Help shape the story by voting on the **location, historical period, and characters**  
-  - Your name (or your child’s name) will appear in the episode credits  
-- **Digital Artbook – The Making of the 1st France Edition**, including:  
-  - visual research  
-  - character design (Eruh & Hudit)  
-  - environments by historical period  
-  - graphic evolution  
-- **“Guardian of History”** badge in the app  
+**Includes all previous rewards, plus:**
+
+### 🗺️ A Voice in the Journey
+* **Shared Creative Decisions**  
+  Depending on unlocked stretch goals, Guardians help decide which **French regions and landmarks** are explored, based on a curated selection (with the possibility to suggest ideas).
+* **A Collaborative Exclusive Anecdote**  
+  Take part in the creation of a unique story by voting on the **location, historical period, and main characters**.
+* **Personal Credit**  
+  Your name (or your child’s name) will appear in the credits of this collaborative episode.
+
+### ✍️ A Lasting Mark
+* **Official Credits**  
+  Your name featured in the credits of both the **Erudit app and the official website**.
+* **“Guardian of History” Badge**  
+  A distinguished badge shown in the app, honoring your role as a supporter and co-creator.
+
+### 🎨 Behind the Scenes
+* **Lifetime Access to All Background Themes**  
+  Unlock every visual theme from the *1st France Edition*, forever.
+* **Digital Artbook — *The Making of Erudit***  
+  A curated look at the creative process:  
+  character design (Eruh & Hudit), environments, visual research, and artistic evolution.
+
+### 🚀 Early & Insider Access
+* **Early App Access**  
+  Discover new anecdotes in the app before the public release.
+* **Behind-the-Scenes Updates**  
+  Follow the creation of Erudit through exclusive updates on Discord, shared before social media.
+
+---
 
 > *All rewards are 100% digital. No physical shipping involved.*
 
 ![Stretch Goals](./assets/images/title9.webp)
 
-*(What gets unlocked when funding milestones are reached)*
+## 🌟 Stretch Goals – Unlock the Full France Edition
+
+Our goal is to bring **Erudit: 1st France Edition** to life, region by region. Each milestone adds **new animated anecdotes**, enriching the cultural journey for all backers.
+
+---
+
+### ✅ Base Goal – €20,000 (100% funded)
+**Unlock 6 anecdotes**  
+- 3 from **Île-de-France** (already in development)  
+- 3 from **other regions of France**
+
+This ensures the first edition is **complete and enjoyable**, even without additional stretch goals.
+
+---
+
+### 🔓 €30,000
+**Unlock 3 additional anecdotes**  
+- Expanding the journey to new regions  
+
+---
+
+### 🔓 €40,000
+**Unlock 3 additional anecdotes**  
+- Further expansion across France  
+
+---
+
+### 🔓 €50,000
+**Unlock 3 additional anecdotes**  
+- More regions added, enriching the cultural map of France
+
+---
+
+### 🔓 €60,000
+**Unlock 3 additional anecdotes**  
+- Approaching full coverage  
+
+---
+
+### 🔓 €70,000 – Full Edition
+**Unlock the final 3 anecdotes**  
+- **All 18 regions of France** are covered  
+- Every story included, giving a complete France edition for all backers
+
+---
+
+> *Erudit is a complete and enjoyable experience even if only the base goal is reached.*
+
 
 ![Acknowledgements](./assets/images/title10.webp)
 
