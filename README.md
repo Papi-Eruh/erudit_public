@@ -155,7 +155,7 @@ By supporting us, you become a **co-producer of Erudit**, actively participating
 
 ![Reward example](./assets/images/rewards.webp)
 
-## ⚓️ Deckhand on Board
+### Deckhand on Board
 **Pledge: €5**
 
 **Every journey begins with a first step.**  
@@ -163,12 +163,12 @@ By joining the crew, you help bring Erudit to life and support a new way of disc
 
 * **Official Digital Wallpaper**  
   An exclusive high-resolution illustration for mobile or desktop.
+* **Thank You Shout-out**
+  Your name listed in a special Thank You post in the project’s News section.
 * **“Deckhand on Board” Badge**  
   A special badge showing you supported Erudit from the very beginning.
-* **Hall of Thanks**  
-  Your name listed in the project’s official thank-you credits.
 
-## 🚀 Erudit – France 1st Edition (Lifetime Access)
+### Erudit – France Edition (Lifetime Access)
 **Pledge: €30**
 
 **The heart of the project.**  
@@ -176,52 +176,41 @@ This pledge gives you access to the complete first edition of Erudit, designed a
 
 **Includes all previous rewards, plus:**
 
-* **📚 Lifetime Access to the France Edition**  
-  Enjoy **all animated stories from the 1st France Edition**, permanently.  
-  No subscriptions, no ads—just thoughtful content available when the app officially launches.
+* **Lifetime Access to the France Edition**  
+  Enjoy all animated stories from the France Edition, permanently.
 * **“Space Traveler” Badge**  
   A badge displayed in the app, marking you as one of the first explorers of Erudit.
 
-## 🏛️ Guardian of History
+### Guardian of History
 **Pledge: €80**
 
 **Take part in the making of history.**  
-As a Guardian of History, you go beyond discovering stories—you help shape them, alongside the Erudit team.
+As a Guardian of History, you go beyond discovering stories: You help shape them, alongside the Erudit team.
 
 **Includes all previous rewards, plus:**
 
-### 🗺️ A Voice in the Journey
-* **Shared Creative Decisions**  
-  Depending on unlocked stretch goals, Guardians help decide which **French regions and landmarks** are explored, based on a curated selection (with the possibility to suggest ideas).
+* **Early App Access**  
+  Discover new anecdotes in the app before the public release.
+* **Digital Artbook — *The Making of Erudit***  
+  A curated look at the creative process:  
+  character design (Eruh & Hudit), environments, visual research, and artistic evolution.
+* **Lifetime Access to All Background Themes from France Edition**  
+  Unlock every visual theme from the France Edition.
 * **A Collaborative Exclusive Anecdote**  
-  Take part in the creation of a unique story by voting on the **location, historical period, and main characters**.
-* **Personal Credit**  
+  Take part in the creation of a unique story by voting on the location, historical period, and main characters.  
   Your name (or your child’s name) will appear in the credits of this collaborative episode.
-
-### ✍️ A Lasting Mark
+* **Shared Creative Decisions**  
+  Depending on unlocked stretch goals, Guardians help decide which French regions and landmarks are explored.
 * **Official Credits**  
   Your name featured in the credits of both the **Erudit app and the official website**.
 * **“Guardian of History” Badge**  
   A distinguished badge shown in the app, honoring your role as a supporter and co-creator.
 
-### 🎨 Behind the Scenes
-* **Lifetime Access to All Background Themes**  
-  Unlock every visual theme from the *1st France Edition*, forever.
-* **Digital Artbook — *The Making of Erudit***  
-  A curated look at the creative process:  
-  character design (Eruh & Hudit), environments, visual research, and artistic evolution.
-
-### 🚀 Early & Insider Access
-* **Early App Access**  
-  Discover new anecdotes in the app before the public release.
-* **Behind-the-Scenes Updates**  
-  Follow the creation of Erudit through exclusive updates on Discord, shared before social media.
-
 > *All rewards are 100% digital. No physical shipping involved.*
 
 ![Stretch Goals](./assets/images/title9.webp)
 
-Our goal is to bring **Erudit: 1st France Edition** to life, region by region. Each milestone adds **new animated anecdotes**, enriching the cultural journey for all backers.
+> Our goal is to bring **Erudit: France Edition** to life, region by region. Each milestone adds **new animated anecdotes**, enriching the cultural journey for all backers.
 
 ### ✅ Base Goal – €20,000 (100% funded)
 **Unlock 6 anecdotes**  
