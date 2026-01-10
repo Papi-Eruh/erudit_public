@@ -155,8 +155,8 @@ By supporting us, you become a **co-producer of Erudit**, actively participating
 
 ![Reward example](./assets/images/rewards.webp)
 
-## ⚓️ Deckhand on Board  
-**Pledge: $5**
+## ⚓️ Deckhand on Board
+**Pledge: €5**
 
 **Every journey begins with a first step.**  
 By joining the crew, you help bring Erudit to life and support a new way of discovering history—calm, thoughtful, and made to last.
@@ -168,10 +168,8 @@ By joining the crew, you help bring Erudit to life and support a new way of disc
 * **Hall of Thanks**  
   Your name listed in the project’s official thank-you credits.
 
----
-
 ## 🚀 Erudit – France 1st Edition (Lifetime Access)
-**Pledge: $30**
+**Pledge: €30**
 
 **The heart of the project.**  
 This pledge gives you access to the complete first edition of Erudit, designed as a lasting cultural experience to explore at your own pace.
@@ -184,10 +182,8 @@ This pledge gives you access to the complete first edition of Erudit, designed a
 * **“Space Traveler” Badge**  
   A badge displayed in the app, marking you as one of the first explorers of Erudit.
 
----
-
-## 🏛️ Guardian of History  
-**Pledge: $80**
+## 🏛️ Guardian of History
+**Pledge: €80**
 
 **Take part in the making of history.**  
 As a Guardian of History, you go beyond discovering stories—you help shape them, alongside the Erudit team.
@@ -221,8 +217,6 @@ As a Guardian of History, you go beyond discovering stories—you help shape the
 * **Behind-the-Scenes Updates**  
   Follow the creation of Erudit through exclusive updates on Discord, shared before social media.
 
----
-
 > *All rewards are 100% digital. No physical shipping involved.*
 
 ![Stretch Goals](./assets/images/title9.webp)
@@ -231,50 +225,36 @@ As a Guardian of History, you go beyond discovering stories—you help shape the
 
 Our goal is to bring **Erudit: 1st France Edition** to life, region by region. Each milestone adds **new animated anecdotes**, enriching the cultural journey for all backers.
 
----
-
 ### ✅ Base Goal – €20,000 (100% funded)
 **Unlock 6 anecdotes**  
-- 3 from **Île-de-France** (already in development)  
+- 3 from **Île-de-France** (already in development)
 - 3 from **other regions of France**
 
 This ensures the first edition is **complete and enjoyable**, even without additional stretch goals.
-
----
 
 ### 🔓 €30,000
 **Unlock 3 additional anecdotes**  
 - Expanding the journey to new regions  
 
----
-
 ### 🔓 €40,000
 **Unlock 3 additional anecdotes**  
 - Further expansion across France  
-
----
 
 ### 🔓 €50,000
 **Unlock 3 additional anecdotes**  
 - More regions added, enriching the cultural map of France
 
----
-
 ### 🔓 €60,000
 **Unlock 3 additional anecdotes**  
 - Approaching full coverage  
-
----
 
 ### 🔓 €70,000 – Full Edition
 **Unlock the final 3 anecdotes**  
 - **All 18 regions of France** are covered  
 - Every story included, giving a complete France edition for all backers
 
----
-
 > *Erudit is a complete and enjoyable experience even if only the base goal is reached.*
-
+> The regions currently shown in the stretch goals are **placeholders**. As a **Guardian of History**, you will be invited to select the actual regions we explore. 
 
 ![Acknowledgements](./assets/images/title10.webp)
 
