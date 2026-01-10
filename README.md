@@ -221,8 +221,6 @@ As a Guardian of History, you go beyond discovering stories—you help shape the
 
 ![Stretch Goals](./assets/images/title9.webp)
 
-## 🌟 Stretch Goals – Unlock the Full France Edition
-
 Our goal is to bring **Erudit: 1st France Edition** to life, region by region. Each milestone adds **new animated anecdotes**, enriching the cultural journey for all backers.
 
 ### ✅ Base Goal – €20,000 (100% funded)
