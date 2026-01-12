@@ -2,17 +2,16 @@
 
 ![Erudit banner](./assets/images/banner.webp)
 
-One beautiful spring afternoon, I found my grandson curled up on the couch, eyes fixed on the television screen. Again.
+One afternoon, I found my grandson curled up on the couch, eyes fixed on the **television screen**. Again.
 
-> I don’t always know how to deal with screens. How to accept them without letting them replace everything else.
+> I don’t always know **how to deal with screens**. How to accept them without letting them replace everything else.
 
 When I suggested we go for a walk, to step outside for a bit, he didn’t even answer. It hurt me.
+I took him with me anyway, and brought him to a monument he used to love when he was younger.  
+This time, he barely looked at it.
 
-I took him with me anyway, hoping the fresh air might change his mood.  
-As we wandered, we came across this monument, immense and imposing, the kind that usually sparks a thousand questions.  
-But this time, he barely looked at it.
-
-It was in that moment of helplessness that I noticed a small QR code nearby...
+It was in that moment of helplessness that I noticed a small QR code nearby.  
+I didn’t realize it would change our visit that day.
 
 ![Why Create Erudit?](./assets/images/title3.webp)
 
