@@ -6,37 +6,28 @@ One afternoon, I found my grandson curled up on the couch, eyes fixed on the **t
 
 > I don’t always know **how to deal with screens**. How to accept them without letting them replace everything else.
 
-When I suggested we go for a walk, to step outside for a bit, he didn’t even answer. It hurt me.
-I took him with me anyway, and brought him to a monument he used to love when he was younger.  
-This time, he barely looked at it.
+When I suggested we go for a walk, to step outside for a bit, he didn’t even answer. It hurt me. I took him with me anyway, and brought him to a **monument** he used to love when he was younger. This time, he barely looked at it.
 
-It was in that moment of helplessness that I noticed a small QR code nearby.  
-I didn’t realize it would change our visit that day.
-
-![Why Create Erudit?](./assets/images/title3.webp)
-
-In a world saturated with screens, our goal is not to avoid them, but to teach children how to use them with intention and balance.  
-Erudit is built on a simple belief: **digital tools should connect us, not isolate us**.
-
-We imagine a generation for whom technology becomes a gateway to culture, imagination, and human values, not a source of dependency.
-
-To support this, we bring together developers, illustrators, composers, storytellers, and animators to craft **a child’s first meaningful digital experience**, one that inspires wonder rather than dependency.
-
-Erudit invites families to slow down, explore, and share a moment of discovery.  
-It gently introduces essential digital tools while sparking real-world exploration and meaningful conversations.
-
-More than an app, Erudit is a creative universe designed to help parents and children grow, learn, and open up to the world together.
-
-![Why create Erudit footer](./assets/images/footer2.webp)
+It was in that moment of helplessness that I noticed a **small QR code nearby**. I didn’t realize it would change our **visit** that day.
 
 ![What is Erudit ?](./assets/images/title1.webp)
 
-> We choose to work only with real artists, whom we proudly feature in the application.
-
-Erudit is an app that supports **parents and children** in their **first steps with screens**, through interactive cultural adventures that blend animation with **real-world discovery**.
+Erudit is an app that supports **parents and children** in their **first steps with screens**, through interactive cultural adventures that blend animation with **real-world discovery**.  
 We follow **Eruh & Hudit**, kindhearted grandparents with a passion for history and culture, and their grandson as they embark on countless adventures that help him **learn, grow, and discover the world**.
 
+> We choose to work only with real **artists**, whom we proudly feature in the application.
+
 ![What is Erudit ? Footer](./assets/images/footer1.webp)
+
+![Why Create Erudit?](./assets/images/title3.webp)
+
+I have always been fascinated by animated films and series. Growing up, they were more than just entertainment, they fueled my dreams, gave me strong emotions, and taught me valuable life lessons. Creating my own animated universe has been a lifelong goal.
+
+By focusing on outdoor landmarks, I wanted to use the screen to reconnect children with the real world around them.
+
+Think of Erudit as a quiet bench, an invitation to sit side-by-side, slow down, and transform short screen time into a shared moment of discovery, learning, and meaningful conversation.
+
+![Why create Erudit footer](./assets/images/footer2.webp)
 
 ![What do we do with Erudit ?](./assets/images/title2.webp)
 
