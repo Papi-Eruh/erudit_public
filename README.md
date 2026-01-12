@@ -21,11 +21,11 @@ We follow **Eruh & Hudit**, kindhearted grandparents with a passion for history 
 
 ![Why Create Erudit?](./assets/images/title3.webp)
 
-I have always been fascinated by animated films and series. Growing up, they were more than just entertainment, they fueled my dreams, gave me strong emotions, and taught me valuable life lessons. Creating my own animated universe has been a lifelong goal.
+I have always been fascinated by **animated films and series**. Growing up, they were more than just entertainment, they **fueled my dreams**, gave me strong **emotions**, and taught me **valuable life lessons**. Creating my own animated universe has been a lifelong goal.
 
-By focusing on outdoor landmarks, I wanted to use the screen to reconnect children with the real world around them.
+By focusing on **outdoor landmarks**, I want to use the screen to reconnect children with the **real world** around them.
 
-Think of Erudit as a quiet bench, an invitation to sit side-by-side, slow down, and transform short screen time into a shared moment of discovery, learning, and meaningful conversation.
+Think of Erudit as a **quiet bench**, an invitation to sit side-by-side, **slow down**, and transform **short screen time** into a shared moment of discovery, learning, and meaningful conversation.
 
 ![Why create Erudit footer](./assets/images/footer2.webp)
 
@@ -60,8 +60,7 @@ Once the story is over, the anime is revisited scene by scene, to relive the imp
 
 ### Knowledge quizzes
 
-After watching the story, children and parents can go through short, playful quizzes that revisit the key moments of the episode.  
-Each question is directly linked to a specific scene, helping children check their understanding, and encourage discussion around what they have just discovered.
+After watching the story, children and parents can go through short, playful quizzes that revisit the key moments of the episode. Each question is directly linked to a specific scene, helping children check their understanding, and encourage discussion around what they have just discovered.
 
 <p align="center">
   <img width="200px" alt="Knowledge quizzes" src="./assets/images/screenshot2.webp"/>
