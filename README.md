@@ -2,19 +2,37 @@
 
 ![Erudit banner](./assets/images/banner.webp)
 
-> A recent technology once made us believe we could finally fulfill a childhood dream: creating our own cartoons.  
-> But what emerged were works without depth — no story, no effort, **no soul**.
->
-> True creation is never instantaneous.  
-> It is born from the creative process: the doubts, the trials, the wrong turns, the persistence.  
-> It is the personality and the soul of the artists that breathe life into a work.
->
-> It was from this belief that Erudit made its **most important shift**:  
-> choosing to work **only with real artists**, whom we proudly feature in the application.
+One beautiful spring afternoon, I found my grandson curled up on the couch, eyes fixed on the television screen. Again.
+
+> I don’t always know how to deal with screens. How to accept them without letting them replace everything else.
+
+When I suggested we go for a walk, to step outside for a bit, he didn’t even answer. It hurt me.
+
+I took him with me anyway, hoping the fresh air might change his mood.  
+As we wandered, we came across this monument, immense and imposing, the kind that usually sparks a thousand questions.  
+But this time, he barely looked at it.
+
+It was in that moment of helplessness that I noticed a small QR code nearby...
+
+![Why Create Erudit?](./assets/images/title3.webp)
+
+In a world saturated with screens, our goal is not to avoid them, but to teach children how to use them with intention and balance.  
+Erudit is built on a simple belief: **digital tools should connect us, not isolate us**.
+
+We imagine a generation for whom technology becomes a gateway to culture, imagination, and human values, not a source of dependency.
+
+To support this, we bring together developers, illustrators, composers, storytellers, and animators to craft **a child’s first meaningful digital experience**, one that inspires wonder rather than dependency.
+
+Erudit invites families to slow down, explore, and share a moment of discovery.  
+It gently introduces essential digital tools while sparking real-world exploration and meaningful conversations.
+
+More than an app, Erudit is a creative universe designed to help parents and children grow, learn, and open up to the world together.
+
+![Why create Erudit footer](./assets/images/footer2.webp)
 
 ![What is Erudit ?](./assets/images/title1.webp)
 
-> My first steps with and without screens.
+> We choose to work only with real artists, whom we proudly feature in the application.
 
 Erudit is an app that supports **parents and children** in their **first steps with screens**, through interactive cultural adventures that blend animation with **real-world discovery**.
 We follow **Eruh & Hudit**, kindhearted grandparents with a passion for history and culture, and their grandson as they embark on countless adventures that help him **learn, grow, and discover the world**.
@@ -91,22 +109,6 @@ Families can directly support the artists by **purchasing the items or projects 
 ### A Safe and offline-first experience
 
 Erudit collects **no personal data** and works **entirely offline**, ensuring a safe, private, and accessible experience for children and families.
-
-![Why Create Erudit?](./assets/images/title3.webp)
-
-In a world saturated with screens, our goal is not to avoid them, but to teach children how to use them with intention and balance.  
-Erudit is built on a simple belief: **digital tools should connect us, not isolate us**.
-
-We imagine a generation for whom technology becomes a gateway to culture, imagination, and human values, not a source of dependency.
-
-To support this, we bring together developers, illustrators, composers, storytellers, and animators to craft **a child’s first meaningful digital experience**, one that inspires wonder rather than dependency.
-
-Erudit invites families to slow down, explore, and share a moment of discovery.  
-It gently introduces essential digital tools while sparking real-world exploration and meaningful conversations.
-
-More than an app, Erudit is a creative universe designed to help parents and children grow, learn, and open up to the world together.
-
-![Why create Erudit footer](./assets/images/footer2.webp)
 
 ![Erudit's Universe](./assets/images/title4.webp)
 
