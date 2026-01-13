@@ -2,44 +2,45 @@
 
 ![Erudit banner](./assets/images/banner.webp)
 
-One afternoon, I found my grandson curled up on the couch, eyes fixed on the **television screen**. Again.
+One afternoon, I found my grandson curled up on the couch, **eyes fixed on the television screen. Again.**
 
-> I don’t always know **how to deal with screens**. How to accept them without letting them replace everything else.
+> **I don’t always know how to deal with screens**. How to accept them without letting them replace everything else.
 
-When I suggested we go for a walk, to step outside for a bit, he didn’t even answer. It hurt me. I took him with me anyway, and brought him to a **monument** he used to love when he was younger. This time, he barely looked at it.
+When I suggested we go for a walk, he didn’t even answer. It hurt me. I took him with me anyway, and **brought him to a monument** he used to love when he was younger. This time, **he barely looked at it**.
 
-It was in that moment of helplessness that I noticed a **small QR code nearby**. I didn’t realize it would change our **visit** that day.
+It was in that moment of helplessness that **I noticed a small QR code nearby**. I didn’t realize **it would change our visit** that day.
 
 ![What is Erudit ?](./assets/images/title1.webp)
 
-Erudit is an app that supports **parents and children** in their **first steps with screens**, through interactive cultural adventures that blend animation with **real-world discovery**.  
-We follow **Eruh & Hudit**, kindhearted grandparents with a passion for history and culture, and their grandson as they embark on countless adventures that help him **learn, grow, and discover the world**.
+Erudit is an app that supports parents and children in **their first steps with screens**, through interactive cultural adventures that blend animation with **real-world discovery.
 
-> We choose to work only with real **artists**, whom we proudly feature in the application.
+We follow **Eruh & Hudit**, kindhearted grandparents with a passion for history and culture. Together with **their grandson**, they embark on countless adventures that help him **learn, grow, and discover the world**.
+
+> We choose to **work only with real artists**, whom we proudly feature in the application.
 
 ![What is Erudit ? Footer](./assets/images/footer1.webp)
 
 ![Why Create Erudit?](./assets/images/title3.webp)
 
-I have always been fascinated by **animated films and series**. Growing up, they were more than just entertainment, they **fueled my dreams**, gave me strong **emotions**, and taught me **valuable life lessons**. Creating my own animated universe has been a lifelong goal.
+I have always been fascinated by **animated films and series**. Growing up, they were more than just entertainment, **they fueled my dreams**, gave me strong emotions, and **taught me valuable life lessons**. Creating my own animated universe has been a lifelong goal.
 
-By focusing on **outdoor landmarks**, I want to use the screen to reconnect children with the **real world** around them.
+By focusing on **outdoor landmarks**, I want to use the screen to **reconnect children with the real world** around them.
 
-Think of Erudit as a **quiet bench**, an invitation to sit side-by-side, **slow down**, and transform **short screen time** into a shared moment of discovery, learning, and meaningful conversation.
+Think of Erudit as a **quiet bench**. Sit side-by-side, **slow down**, and turn **screen time** into a shared moment of discovery and conversation.
 
 ![Why create Erudit footer](./assets/images/footer2.webp)
 
 ![What do we do with Erudit ?](./assets/images/title2.webp)
 
-> Erudit is the experience we would love to share with our children. 
+> Erudit is the experience we would **love to share with our children**.
 
-### Interactive animated stories
+### Animated stories
 
-The experience begins in the real world: By visiting cultural landmarks and scanning the QR code on site, users unlock animated stories rooted in the very places they are exploring.
+Visit cultural landmarks, **scan the QR code**, and watch **history come to life** right where it happened.
 
-And because not everyone can access these locations right away, Erudit is also designed for **healthy screen time**: the app offers **one short animated story per day**, allowing everyone to discover history through the adventures of our characters, while gently conveying meaningful life lessons.
+For those at home, Erudit ensures **healthy screen time**. We offer just **one short story per day**, allowing children to explore history and **meaningful life lessons** at a gentle pace.
 
-Today, animated films are cut faster than ever, with shots often lasting less than three seconds. At Erudit, **our shots last at least six seconds**, giving children time to watch, understand, and stay focused.
+While modern cartoons are often frantic, we choose calmness. **Our shots last at least six seconds**, giving children the time to **watch, understand, and stay focused**.
 
 <p align="center">
   <img width="200px" alt="Interactive animated stories 1" src="./assets/images/screenshot1_1.webp"/>
@@ -51,8 +52,9 @@ Today, animated films are cut faster than ever, with shots often lasting less th
 
 ### Story review
 
-Erudit's stories **do not contain voices**, a strong artistic choice, to open up dialogue between parents and children, and to highlight music as a way of evoking emotions.
-Once the story is over, the anime is revisited scene by scene, to relive the important moments and better grasp the storyline.
+We made the artistic choice of **no voiceovers**. This allows the **music to carry the emotion** and leaves space for **dialogue between you and your child**.
+
+After the episode, a **scene-by-scene recap** lets you revisit key moments to ensure the story is **fully understood**.
 
 <p align="center">
   <img width="200px" alt="Story review" src="./assets/images/screenshot6.webp"/>
@@ -60,7 +62,9 @@ Once the story is over, the anime is revisited scene by scene, to relive the imp
 
 ### Knowledge quizzes
 
-After watching the story, children and parents can go through short, playful quizzes that revisit the key moments of the episode. Each question is directly linked to a specific scene, helping children check their understanding, and encourage discussion around what they have just discovered.
+Extend the experience with **short, playful quizzes**.
+
+Each question is linked to a **visual scene**, helping to check understanding and spark **meaningful discussion** about what you just discovered.
 
 <p align="center">
   <img width="200px" alt="Knowledge quizzes" src="./assets/images/screenshot2.webp"/>
@@ -70,8 +74,9 @@ After watching the story, children and parents can go through short, playful qui
 
 ### Spaced-repetition system
 
-To help knowledge truly stick, Erudit uses a spaced-repetition system.
-The app takes care of re-asking questions at smart, well-timed intervals, so cultural knowledge stays anchored in children’s minds for as long as possible.
+To make learning last, Erudit uses **spaced repetition**.
+
+Questions reappear at **smart intervals**, keeping cultural knowledge **firmly anchored** in your child’s memory.
 
 <p align="center">
   <img width="200px" alt="Spaced-repetition system" src="./assets/images/screenshot3.webp"/>
@@ -79,8 +84,9 @@ The app takes care of re-asking questions at smart, well-timed intervals, so cul
 
 ### Location access & QR code scanning
 
-Each story is rooted in a **real cultural landmark**. With a single tap, parents can open their map app to locate the site, plan a visit, explore nearby places, or simply connect the story to the real world.  
-When families visit the location in real life and scan the QR code on site, they unlock **Erudit’s secrets**...
+Each story belongs to a **real place**.
+
+With one tap, **locate the landmark** on your map to plan a family outing. And when you visit in person, scan the code to unlock **Erudit’s hidden secrets**.
 
 <p align="center">
   <img width="200px" alt="Location access & QR code scanning" src="./assets/images/screenshot4.webp"/>
@@ -88,8 +94,9 @@ When families visit the location in real life and scan the QR code on site, they
 
 ### Artist links
 
-Erudit highlights their work by providing **direct links to their websites**, where families can discover the creators behind the stories.
-Families can directly support the artists by **purchasing the items or projects they offer**.
+We proudly **showcase our artists**.
+
+Follow **direct links** to their websites to discover the talent behind the stories and **support their personal projects**.
 
 <p align="center">
   <img width="200px" alt="Artist links" src="./assets/images/screenshot5.webp"/>
@@ -97,48 +104,50 @@ Families can directly support the artists by **purchasing the items or projects 
 
 ### A Safe and offline-first experience
 
-Erudit collects **no personal data** and works **entirely offline**, ensuring a safe, private, and accessible experience for children and families.
+We respect your child’s attention. Erudit contains **no ads**, collects **no personal data**, and works **entirely offline**.
+
+It is a **safe, private space** designed to nurture curiosity, not monetize time.
 
 ![Erudit's Universe](./assets/images/title4.webp)
 
-* **Eruh**, the storyteller, shares his tales with passion, captivating the audience with unforgettable emotions and anecdotes.
-* **Hudit**, the giver, turns these stories into carefully designed quizzes, helping everyone learn smoothly and remember more easily.
+* **Eruh, the Storyteller:** He weaves history into tales with passion, captivating listeners with **unforgettable emotions** and anecdotes.
+* **Hudit, the Keeper:** She transforms these stories into **playful challenges**, ensuring that wisdom takes root and memories last forever.
 
-Centuries ago, **Eruh and Hudit** were part of a secret ancient order, **the Guardians of History**.
-This order of scholars was tasked with protecting historical stories to ensure they would never be lost over time.
+Centuries ago, **Eruh and Hudit** belonged to a secret ancient order: **The Guardians of History**.
+This order was sworn to protect the stories of the past, ensuring they would never fade away.
 
-They believed that **well-preserved knowledge could guide future civilizations**, helping them avoid past mistakes and transmit noble values such as kindness, wisdom, and respect.
+They believed that **knowledge is a light for the future**. A way to avoid past mistakes and pass on values of **kindness, wisdom, and respect**.
 
-The members of this order possessed a mysterious power… but that’s for you to discover!
+The members of this order possessed a **mysterious power**… but that is for you to discover!
 
 [![lesillustrationsdelou](./assets/images/footer3.webp)](https://lesillustrationsdelou.com)
 
 ![What Are We Preparing for This First Edition?](./assets/images/title5.webp)
 
-For this first edition, we will focus on France, highlighting a story rooted in an iconic cultural location in **each of its regions**.
-Each story will celebrate the richness and diversity of French heritage, revealing how history, art, and landscapes shape regional identities.
-Every story will be **fully illustrated and set to music by local artists**, closely connected to the region they represent. These artists will be featured throughout the project:
+For this first edition, we begin our journey in **France**, dedicating one unique story to **each region**.
 
-- First, on social media through behind-the-scenes content and creative insights.
-- Then, directly in the app, where each contributor is clearly credited for their work.
+Every tale is brought to life by **local artists and composers**, ensuring the art and music reflect the true spirit of the place. We proudly showcase their talent through behind-the-scenes content and dedicated profiles in the app.
 
-Based on the results and feedback from this first edition, the project can gradually expand—exploring **more regions & countries**, with the community helping to choose which places will be highlighted next.
+This is just the start. With your support, we plan to expand to **new countries**, letting the community **vote for the next destinations**.
 
 [![Fooxyla](./assets/images/footer5.webp)](http://www.fooxyla.com)
 
 ![Why a Crowdfunding Campaign?](./assets/images/title6.webp)
 
-We made a conscious choice: collaborate with real artists, real hands, real sensibilities, to bring our animated stories to life.
-This is **costly and hard to support at this stage**.
-We need your support to **launch this beautiful project**, have enough content to generate early revenue, and increase visibility to attract public funding and partners.
-By supporting us, you become a **co-producer of Erudit**, actively participating in our adventure while supporting the artists involved.
+![Why a Crowdfunding Campaign?](./assets/images/title6.webp)
+
+We chose **human craftsmanship** over shortcuts. We work with **real artists**, real hands, and real sensibilities. This approach is the heart of Erudit, but true quality requires resources.
+
+We need you to **bring this vision to life**. Your support directly funds the production. It ensures our artists are fairly paid and that the project launches with the quality it deserves.
+
+By backing us, you become a **co-producer**. You actively support the creative community and shape the future of Erudit.
 
 [![Justine Ghyselen](./assets/images/footer4.webp)](https://www.instagram.com/justine.ghyselen/)
 
 ![How You Can Support Erudit](./assets/images/title7.webp)
 
 * Fund the project according to your means. Your support will be rewarded with **unique perks**, and you will follow the production step by step.
-* **Spread the word** about Erudit to friends, family, and colleagues, and share our campaign on social media. Every share is a huge help!
+* **Spread the word** about Erudit to friends, family, and colleagues, and **share our campaign on social media**. Every share is a huge help!
 
 [![Pollen Toxique](./assets/images/footer6.webp)](https://pollentoxique.myportfolio.com)
 
@@ -163,7 +172,7 @@ By joining the crew, you help bring Erudit to life and support a new way of disc
 **Pledge: €30**
 
 **The heart of the project.**  
-This pledge gives you access to the complete first edition of Erudit, designed as a lasting cultural experience to explore at your own pace.
+This pledge gives you access to the complete **France edition** of Erudit, designed as a lasting cultural experience to explore at your own pace.
 
 **Includes all previous rewards, plus:**
 
@@ -201,7 +210,7 @@ As a Guardian of History, you go beyond discovering stories: You help shape them
 
 ![Stretch Goals](./assets/images/title9.webp)
 
-> Our goal is to bring **Erudit: France Edition** to life, region by region. Each milestone adds **new animated anecdotes**, enriching the cultural journey for all backers.
+> Our goal is to bring **France Edition** to life, region by region. Each milestone adds **new animated anecdotes**, enriching the cultural journey for all backers.
 
 ### ✅ Base Goal – €20,000 (100% funded)
 **Unlock 6 anecdotes**  
