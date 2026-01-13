@@ -12,7 +12,7 @@ It was in that moment of helplessness that **I noticed a small QR code nearby**.
 
 ![What is Erudit ?](./assets/images/title1.webp)
 
-Erudit is an app that supports parents and children in **their first steps with screens**, through interactive cultural adventures that blend animation with **real-world discovery.
+Erudit is an app that supports parents and children in **their first steps with screens**, through interactive cultural adventures that blend animation with **real-world discovery**.
 
 We follow **Eruh & Hudit**, kindhearted grandparents with a passion for history and culture. Together with **their grandson**, they embark on countless adventures that help him **learn, grow, and discover the world**.
 
@@ -42,6 +42,8 @@ For those at home, Erudit ensures **healthy screen time**. We offer just **one s
 
 While modern cartoons are often frantic, we choose calmness. **Our shots last at least six seconds**, giving children the time to **watch, understand, and stay focused**.
 
+<br>
+
 <p align="center">
   <img width="200px" alt="Interactive animated stories 1" src="./assets/images/screenshot1_1.webp"/>
   &nbsp;&nbsp;&nbsp;&nbsp;
@@ -56,6 +58,8 @@ We made the artistic choice of **no voiceovers**. This allows the **music to car
 
 After the episode, a **scene-by-scene recap** lets you revisit key moments to ensure the story is **fully understood**.
 
+<br>
+
 <p align="center">
   <img width="200px" alt="Story review" src="./assets/images/screenshot6.webp"/>
 </p>
@@ -65,6 +69,8 @@ After the episode, a **scene-by-scene recap** lets you revisit key moments to en
 Extend the experience with **short, playful quizzes**.
 
 Each question is linked to a **visual scene**, helping to check understanding and spark **meaningful discussion** about what you just discovered.
+
+<br>
 
 <p align="center">
   <img width="200px" alt="Knowledge quizzes" src="./assets/images/screenshot2.webp"/>
@@ -78,6 +84,8 @@ To make learning last, Erudit uses **spaced repetition**.
 
 Questions reappear at **smart intervals**, keeping cultural knowledge **firmly anchored** in your child’s memory.
 
+<br>
+
 <p align="center">
   <img width="200px" alt="Spaced-repetition system" src="./assets/images/screenshot3.webp"/>
 </p>
@@ -88,6 +96,8 @@ Each story belongs to a **real place**.
 
 With one tap, **locate the landmark** on your map to plan a family outing. And when you visit in person, scan the code to unlock **Erudit’s hidden secrets**.
 
+<br>
+
 <p align="center">
   <img width="200px" alt="Location access & QR code scanning" src="./assets/images/screenshot4.webp"/>
 </p>
@@ -97,6 +107,8 @@ With one tap, **locate the landmark** on your map to plan a family outing. And w
 We proudly **showcase our artists**.
 
 Follow **direct links** to their websites to discover the talent behind the stories and **support their personal projects**.
+
+<br>
 
 <p align="center">
   <img width="200px" alt="Artist links" src="./assets/images/screenshot5.webp"/>
@@ -131,8 +143,6 @@ Every tale is brought to life by **local artists and composers**, ensuring the a
 This is just the start. With your support, we plan to expand to **new countries**, letting the community **vote for the next destinations**.
 
 [![Fooxyla](./assets/images/footer5.webp)](http://www.fooxyla.com)
-
-![Why a Crowdfunding Campaign?](./assets/images/title6.webp)
 
 ![Why a Crowdfunding Campaign?](./assets/images/title6.webp)
 
