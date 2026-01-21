@@ -1,5 +1,7 @@
 # Erudit Crowdfunding Campaign
 
+**Go explore** our heritage with an **app that brings history to life** for family learning.
+
 ![Erudit banner](./assets/images/banner.webp)
 
 One afternoon, I found my grandson curled up on the couch, **eyes fixed on the television screen. Again.**
@@ -12,9 +14,9 @@ It was in that moment of helplessness that **I noticed a small QR code nearby**.
 
 ![What is Erudit ?](./assets/images/title1.webp)
 
-Erudit is an app that supports parents and children in **their first steps with screens**, through interactive cultural adventures that blend animation with **real-world discovery**.
+Erudit is a **mobile app** that tells the story of our heritage through animation and music, without words. It combines this with fun quizzes to make our history their own. This approach is designed to **introduce screen time gently**, creating a shared moment between children and parents.
 
-We follow **Eruh & Hudit**, kindhearted grandparents with a passion for history and culture. Together with **their grandson**, they embark on countless adventures that help him **learn, grow, and discover the world**.
+In these **animated stories**, we follow **Eruh & Hudit**, kindhearted grandparents who can travel through time and space. Together with their grandson, they embark on countless adventures that help him learn, grow, and discover the world.
 
 > We choose to **work only with real artists**, whom we proudly feature in the application.
 
@@ -22,11 +24,11 @@ We follow **Eruh & Hudit**, kindhearted grandparents with a passion for history 
 
 ![Why Create Erudit?](./assets/images/title3.webp)
 
-I have always been fascinated by **animated films and series**. Growing up, they were more than just entertainment, **they fueled my dreams**, gave me strong emotions, and **taught me valuable life lessons**. Creating my own animated universe has been a lifelong goal.
+I have always been fascinated by **animated films and series**. Growing up, they were more than just entertainment, they fueled my dreams, gave me strong emotions, and taught me valuable life lessons. Creating my own animated universe has been a lifelong goal.
 
 By focusing on **outdoor landmarks**, I want to use the screen to **reconnect children with the real world** around them.
 
-Think of Erudit as a **quiet bench**. Sit side-by-side, **slow down**, and turn **screen time** into a shared moment of discovery and conversation.
+Think of Erudit as a quiet bench. Sit side-by-side, slow down, and **turn screen time** into a shared moment of discovery and conversation.
 
 ![Why create Erudit footer](./assets/images/footer2.webp)
 
@@ -38,9 +40,9 @@ Think of Erudit as a **quiet bench**. Sit side-by-side, **slow down**, and turn 
 
 Visit cultural landmarks, **scan the QR code**, and watch **history come to life** right where it happened.
 
-For those at home, Erudit ensures **healthy screen time**. We offer just **one short story per day**, allowing children to explore history and **meaningful life lessons** at a gentle pace.
+**For those at home**, Erudit ensures healthy screen time. We offer just **one short story per day**, allowing children to explore history and meaningful life lessons at a gentle pace.
 
-While modern cartoons are often frantic, we choose calmness. **Our shots last at least six seconds**, giving children the time to **watch, understand, and stay focused**.
+While modern cartoons are often frantic, we choose calmness. **Our shots last at least six seconds**, giving children the time to watch, understand, and stay focused.
 
 <br>
 
@@ -54,9 +56,9 @@ While modern cartoons are often frantic, we choose calmness. **Our shots last at
 
 ### Story review
 
-We made the artistic choice of **no voiceovers**. This allows the **music to carry the emotion** and leaves space for **dialogue between you and your child**.
+We made the artistic choice of **no voiceovers**. This allows the music to carry the emotion and leaves space for dialogue between you and your child.
 
-After the episode, a **scene-by-scene recap** lets you revisit key moments to ensure the story is **fully understood**.
+After the episode, a **scene-by-scene recap** lets you revisit key moments to ensure the story is fully understood.
 
 <br>
 
@@ -68,7 +70,7 @@ After the episode, a **scene-by-scene recap** lets you revisit key moments to en
 
 Extend the experience with **short, playful quizzes**.
 
-Each question is linked to a **visual scene**, helping to check understanding and spark **meaningful discussion** about what you just discovered.
+Each question is linked to a visual scene, helping to check understanding and spark meaningful discussion about what you just discovered.
 
 <br>
 
@@ -82,7 +84,7 @@ Each question is linked to a **visual scene**, helping to check understanding an
 
 To make learning last, Erudit uses **spaced repetition**.
 
-Questions reappear at **smart intervals**, keeping cultural knowledge **firmly anchored** in your child’s memory.
+Questions reappear at **smart intervals**, keeping cultural knowledge firmly anchored in your child’s memory.
 
 <br>
 
@@ -106,7 +108,7 @@ With one tap, **locate the landmark** on your map to plan a family outing. And w
 
 We proudly **showcase our artists**.
 
-Follow **direct links** to their websites to discover the talent behind the stories and **support their personal projects**.
+Follow direct links to their websites to discover the talent behind the stories and **support their personal projects**.
 
 <br>
 
@@ -118,19 +120,19 @@ Follow **direct links** to their websites to discover the talent behind the stor
 
 We respect your child’s attention. Erudit contains **no ads**, collects **no personal data**, and works **entirely offline**.
 
-It is a **safe, private space** designed to nurture curiosity, not monetize time.
+It is a safe, private space designed to nurture curiosity, not monetize time.
 
 ![Erudit's Universe](./assets/images/title4.webp)
 
-* **Eruh, the Storyteller:** He weaves history into tales with passion, captivating listeners with **unforgettable emotions** and anecdotes.
-* **Hudit, the Keeper:** She transforms these stories into **playful challenges**, ensuring that wisdom takes root and memories last forever.
+* **Eruh, the Storyteller:** He weaves history into tales with passion, captivating listeners with unforgettable emotions and anecdotes.
+* **Hudit, the Keeper:** She transforms these stories into playful challenges, ensuring that wisdom takes root and memories last forever.
 
-Centuries ago, **Eruh and Hudit** belonged to a secret ancient order: **The Guardians of History**.
+Centuries ago, Eruh and Hudit belonged to a secret ancient order: **The Guardians of History**.
 This order was sworn to protect the stories of the past, ensuring they would never fade away.
 
-They believed that **knowledge is a light for the future**. A way to avoid past mistakes and pass on values of **kindness, wisdom, and respect**.
+They believed that knowledge is a light for the future. A way to avoid past mistakes and pass on values of kindness, wisdom, and respect.
 
-The members of this order possessed a **mysterious power**… but that is for you to discover!
+The members of this order possessed a **mysterious power**… but that is for you to discover!  
 
 [![lesillustrationsdelou](./assets/images/footer3.webp)](https://lesillustrationsdelou.com)
 
