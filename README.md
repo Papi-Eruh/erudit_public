@@ -171,8 +171,8 @@ Your contribution is **100% dedicated to artistic production**. It serves exclus
 
 <br>
 
-* Fund the project according to your means. Your support will be rewarded with **unique perks**, and you will follow the production step by step.
-* **Spread the word** about Erudit to friends, family, and colleagues, and **share our campaign on social media**. Every share is a huge help!
+Fund the project according to your means. Your support will be rewarded with **unique perks**, and you will follow the production step by step.  
+**Spread the word** about Erudit to friends, family, and colleagues, and **share our campaign on social media**. Every share is a huge help!
 
 [![Pollen Toxique](./assets/images/footer6.webp)](https://pollentoxique.myportfolio.com)
 
