@@ -36,7 +36,7 @@ Think of Erudit as a quiet bench. Sit side-by-side, slow down, and **turn screen
 
 > Erudit is the experience we would **love to share with our children**.
 
-### Animated stories
+### Watch History Come to Life
 
 Visit cultural landmarks, **scan the QR code**, and watch **history come to life** right where it happened.
 
@@ -54,7 +54,7 @@ While modern cartoons are often frantic, we choose calmness. **Our shots last at
   <img width="200px" alt="Interactive animated stories 3" src="./assets/images/screenshot1.webp"/>
 </p>
 
-### Story review
+### Review the Story Together
 
 We made the artistic choice of **no voiceovers**. This allows the music to carry the emotion and leaves space for dialogue between you and your child.
 
@@ -66,7 +66,7 @@ After the episode, a **scene-by-scene recap** lets you revisit key moments to en
   <img width="200px" alt="Story review" src="./assets/images/screenshot6.webp"/>
 </p>
 
-### Knowledge quizzes
+### Play Short Quizzes
 
 Extend the experience with **short, playful quizzes**.
 
@@ -80,7 +80,7 @@ Each question is linked to a visual scene, helping to check understanding and sp
   <img width="200px" alt="Knowledge quizzes 2" src="./assets/images/screenshot2_1.webp"/>
 </p>
 
-### Spaced-repetition system
+### Retain Knowledge Forever
 
 To make learning last, Erudit uses **spaced repetition**.
 
@@ -92,11 +92,11 @@ Questions reappear at **smart intervals**, keeping cultural knowledge firmly anc
   <img width="200px" alt="Spaced-repetition system" src="./assets/images/screenshot3.webp"/>
 </p>
 
-### Location access & QR code scanning
+### Plan Your Real-Life Visit
 
 Each story belongs to a **real place**.
 
-With one tap, **locate the landmark** on your map to plan a family outing. And when you visit in person, scan the code to unlock **Erudit’s hidden secrets**.
+With one tap, **locate the landmark** on your map to plan a family outing. Visiting in person **unlocks the site's story**, along with the **untold backstory of our characters**.
 
 <br>
 
@@ -104,7 +104,7 @@ With one tap, **locate the landmark** on your map to plan a family outing. And w
   <img width="200px" alt="Location access & QR code scanning" src="./assets/images/screenshot4.webp"/>
 </p>
 
-### Artist links
+### Support Our Artists
 
 We proudly **showcase our artists**.
 
@@ -116,7 +116,7 @@ Follow direct links to their websites to discover the talent behind the stories 
   <img width="200px" alt="Artist links" src="./assets/images/screenshot5.webp"/>
 </p>
 
-### A Safe and offline-first experience
+### Enjoy a Safe Experience
 
 We respect your child’s attention. Erudit contains **no ads**, collects **no personal data**, and works **entirely offline**.
 
@@ -124,10 +124,10 @@ It is a safe, private space designed to nurture curiosity, not monetize time.
 
 ![Erudit's Universe](./assets/images/title4.webp)
 
-* **Eruh, the Storyteller:** He weaves history into tales with passion, captivating listeners with unforgettable emotions and anecdotes.
-* **Hudit, the Keeper:** She transforms these stories into playful challenges, ensuring that wisdom takes root and memories last forever.
+* **Eruh, the Storyteller:** Storytelling is his passion. His voice carries you away like a melody.
+* **Hudit, the Keeper:** Gaming is her passion. She transforms key details into playful quizzes to lock the memory in.
 
-Centuries ago, Eruh and Hudit belonged to a secret ancient order: **The Guardians of History**.
+Centuries ago, Eruh and Hudit belonged to a secret ancient order: **The Guardians of Knowledge**.
 This order was sworn to protect the stories of the past, ensuring they would never fade away.
 
 They believed that knowledge is a light for the future. A way to avoid past mistakes and pass on values of kindness, wisdom, and respect.
@@ -158,8 +158,20 @@ By backing us, you become a **co-producer**. You actively support the creative c
 
 ![How You Can Support Erudit](./assets/images/title7.webp)
 
-* Fund the project according to your means. Your support will be rewarded with **unique perks**, and you will follow the production step by step.
-* **Spread the word** about Erudit to friends, family, and colleagues, and **share our campaign on social media**. Every share is a huge help!
+The founding team handles all writing, animation, and technical development in-house. Therefore, we are not requesting any funding for these stages.
+
+Your contribution is **100% dedicated to artistic production**. It serves exclusively to remunerate the external talent bringing Erudit to life. Here is the real cost to produce a single animated story:
+
+**Illustrator (€1,500)**
+* Creation of a complete visual theme for the app.
+* 4 scene illustrations.
+
+**Composer (€300)**
+* A bespoke composition to carry the emotion throughout the story.
+
+> Fund the project according to your means. Your support will be rewarded with **unique perks**, and you will follow the production step by step. 
+> **Spread the word** about Erudit to friends, family, and colleagues, and **share our campaign on social media**.
+> **Every share is a huge help!**
 
 [![Pollen Toxique](./assets/images/footer6.webp)](https://pollentoxique.myportfolio.com)
 
@@ -174,7 +186,7 @@ By backing us, you become a **co-producer**. You actively support the creative c
 By joining the crew, you help bring Erudit to life and support a new way of discovering history—calm, thoughtful, and made to last.
 
 * **Official Digital Wallpaper**  
-  An exclusive high-resolution illustration for mobile or desktop.
+  An exclusive high-resolution illustration for mobile.
 * **Thank You Shout-out**
   Your name listed in a special Thank You post in the project’s News section.
 * **“Deckhand on Board” Badge**  
@@ -189,15 +201,15 @@ This pledge gives you access to the complete **France edition** of Erudit, desig
 **Includes all previous rewards, plus:**
 
 * **Lifetime Access to the France Edition**  
-  Enjoy all animated stories from the France Edition, permanently.
+  Enjoy all animated stories from the France Edition, permanently. Unlock one story daily without scanning, perfect for when travel isn't possible. Just remember: visiting on-site still holds special rewards and exclusive content.
 * **“Space Traveler” Badge**  
   A badge displayed in the app, marking you as one of the first explorers of Erudit.
 
-### Guardian of History
+### Guardians of Knowledge
 **Pledge: €80**
 
 **Take part in the making of history.**  
-As a Guardian of History, you go beyond discovering stories: You help shape them, alongside the Erudit team.
+As a Guardian of Knowledge, you go beyond discovering stories: You help shape them, alongside the Erudit team.
 
 **Includes all previous rewards, plus:**
 
@@ -215,7 +227,7 @@ As a Guardian of History, you go beyond discovering stories: You help shape them
   Depending on unlocked stretch goals, Guardians help decide which French regions and landmarks are explored.
 * **Official Credits**  
   Your name featured in the credits of both the **Erudit app and the official website**.
-* **“Guardian of History” Badge**  
+* **“Guardian of Knowledge” Badge**  
   A distinguished badge shown in the app, honoring your role as a supporter and co-creator.
 
 > *All rewards are 100% digital. No physical shipping involved.*
@@ -224,10 +236,9 @@ As a Guardian of History, you go beyond discovering stories: You help shape them
 
 > Our goal is to bring **France Edition** to life, region by region. Each milestone adds **new animated anecdotes**, enriching the cultural journey for all backers.
 
-### ✅ Base Goal – €20,000 (100% funded)
-**Unlock 6 anecdotes**  
-- 3 from **Île-de-France** (already in development)
-- 3 from **other regions of France**
+### ✅ Base Goal – €10,000 (100% funded)
+**Unlock 4 anecdotes**  
+- 4 from **Île-de-France** (already in development)
 
 This ensures the first edition is **complete and enjoyable**, even without additional stretch goals.
 
@@ -253,7 +264,7 @@ This ensures the first edition is **complete and enjoyable**, even without addit
 - Every story included, giving a complete France edition for all backers
 
 > *Erudit is a complete and enjoyable experience even if only the base goal is reached.*
-> The regions currently shown in the stretch goals are **placeholders**. As a **Guardian of History**, you will be invited to select the actual regions we explore. 
+> The regions currently shown in the stretch goals are **placeholders**. As a **Guardian of Knowledge**, you will be invited to select the actual regions we explore. 
 
 ![Acknowledgements](./assets/images/title10.webp)
 
