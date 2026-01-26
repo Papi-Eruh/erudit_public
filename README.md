@@ -162,17 +162,11 @@ The founding team handles all writing, animation, and technical development in-h
 
 Your contribution is **100% dedicated to artistic production**. It serves exclusively to remunerate the external talent bringing Erudit to life. Here is the real cost to produce a single animated story:
 
-**Illustrator (€1,500)**
-* Creation of a complete visual theme for the app.
-* 4 scene illustrations.
+**Illustrator (€1,500)**: Complete visual theme & 4 scene illustrations.
+**Composer (€300)**: Bespoke composition to carry the emotion.
 
-**Composer (€300)**
-* A bespoke composition to carry the emotion throughout the story.
-
-<br>
-
-Fund the project according to your means. Your support will be rewarded with **unique perks**, and you will follow the production step by step.  
-**Spread the word** about Erudit to friends, family, and colleagues, and **share our campaign on social media**. Every share is a huge help!
+* Fund the project according to your means. Your support will be rewarded with **unique perks**, and you will follow the production step by step.
+* **Spread the word** about Erudit to friends, family, and colleagues, and **share our campaign on social media**. Every share is a huge help!
 
 [![Pollen Toxique](./assets/images/footer6.webp)](https://pollentoxique.myportfolio.com)
 
