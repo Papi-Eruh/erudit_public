@@ -162,7 +162,7 @@ The founding team handles all writing, animation, and technical development in-h
 
 Your contribution is **100% dedicated to artistic production**. It serves exclusively to remunerate the external talent bringing Erudit to life. Here is the real cost to produce a single animated story:
 
-**Illustrator (€1,500)**: Complete visual theme & 4 scene illustrations.
+**Illustrator (€1,500)**: Complete visual theme & 4 scene illustrations.  
 **Composer (€300)**: Bespoke composition to carry the emotion.
 
 * Fund the project according to your means. Your support will be rewarded with **unique perks**, and you will follow the production step by step.
