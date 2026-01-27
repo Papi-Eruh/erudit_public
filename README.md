@@ -150,20 +150,19 @@ This is just the start. With your support, we plan to expand to **new countries*
 
 We chose **human craftsmanship** over shortcuts. We work with **real artists**, real hands, and real sensibilities. This approach is the heart of Erudit, but true quality requires resources.
 
-We need you to **bring this vision to life**. Your support directly funds the production. It ensures our artists are fairly paid and that the project launches with the quality it deserves.
+We need you to **bring this vision to life**. Your support directly funds the production.  
+Your contribution is **100% dedicated to artistic production**. It serves exclusively to remunerate the external talent bringing Erudit to life.
+
+**Illustrator (€1,200)**: 1 visual theme & 3 scene illustrations.
+**Composer (€300)**: Bespoke composition to carry the emotion.
+**Taxes & Fees (~€760)**: Covering the "invisible costs" so the artists get paid in full.
+**TOTAL Goal per Story: ~€2,260**
 
 By backing us, you become a **co-producer**. You actively support the creative community and shape the future of Erudit.
 
 [![Justine Ghyselen](./assets/images/footer4.webp)](https://www.instagram.com/justine.ghyselen/)
 
 ![How You Can Support Erudit](./assets/images/title7.webp)
-
-The founding team handles all writing, animation, and technical development in-house. Therefore, we are not requesting any funding for these stages.
-
-Your contribution is **100% dedicated to artistic production**. It serves exclusively to remunerate the external talent bringing Erudit to life. Here is the real cost to produce a single animated story:
-
-**Illustrator (€1,500)**: Complete visual theme & 4 scene illustrations.  
-**Composer (€300)**: Bespoke composition to carry the emotion.
 
 * Fund the project according to your means. Your support will be rewarded with **unique perks**, and you will follow the production step by step.
 * **Spread the word** about Erudit to friends, family, and colleagues, and **share our campaign on social media**. Every share is a huge help!
@@ -229,41 +228,38 @@ As a Guardian of Knowledge, you go beyond discovering stories: You help shape th
 
 ![Stretch Goals](./assets/images/title9.webp)
 
-> Our goal is to bring **France Edition** to life, region by region. Each milestone adds **new animated anecdotes**, enriching the cultural journey for all backers.
+> Our goal is to bring **France Edition** to life, region by region. With the inclusion of our pilot story, **Anne Bonny**, the complete collection will feature **21 animated anecdotes**, covering all 18 regions of France.
 
 ### ✅ Base Goal – €10,000 (100% funded)
-**Unlock 4 anecdotes**  
-- 4 from **Île-de-France** (already in development)
+**Unlock 5 anecdotes**
+- 3 from **Île-de-France** (already in development)
+- 1 from another region
+- **1 Bonus Story:** The legend of **Anne Bonny** the pirate (from our development tests)
 
 This ensures the first edition is **complete and enjoyable**, even without additional stretch goals.
 
-### 🔓 €30,000
-**Unlock 3 additional anecdotes**  
-- Expanding the journey to new regions  
+### 🔓 €16,000
+**Unlock 3 additional anecdotes** - Expanding the journey to new regions
 
-### 🔓 €40,000
-**Unlock 3 additional anecdotes**  
-- Further expansion across France  
+### 🔓 €22,000
+**Unlock 3 additional anecdotes** - Further expansion across France
 
-### 🔓 €50,000
-**Unlock 3 additional anecdotes**  
-- More regions added, enriching the cultural map of France
+### 🔓 €28,000
+**Unlock 3 additional anecdotes** - More regions added, enriching the cultural map of France
 
-### 🔓 €60,000
-**Unlock 3 additional anecdotes**  
-- Approaching full coverage  
+### 🔓 €34,000
+**Unlock 4 additional anecdotes** - Approaching full coverage
 
-### 🔓 €70,000 – Full Edition
-**Unlock the final 3 anecdotes**  
-- **All 18 regions of France** are covered  
-- Every story included, giving a complete France edition for all backers
+### 🔓 €39,000 – Full Edition
+**Unlock the final 3 anecdotes** - **All 18 regions of France** are covered
+- **Grand Total: 21 Stories** included for a complete France edition for all backers.
 
 > *Erudit is a complete and enjoyable experience even if only the base goal is reached.*
-> The regions currently shown in the stretch goals are **placeholders**. As a **Guardian of Knowledge**, you will be invited to select the actual regions we explore. 
+> The regions currently shown in the stretch goals are **placeholders**. As a **Guardian of Knowledge**, you will be invited to select the actual regions we explore.
 
 ![Acknowledgements](./assets/images/title10.webp)
 
-Thanks to all the amazing people who have collaborated on this project. You make our life a dream.
+A huge thank you to all the amazing people who collaborated on this project. You each brought your own special touch that made Erudit unique.
 
 ### Artists
 
