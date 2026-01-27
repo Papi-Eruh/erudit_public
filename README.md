@@ -153,9 +153,9 @@ We chose **human craftsmanship** over shortcuts. We work with **real artists**, 
 We need you to **bring this vision to life**. Your support directly funds the production.  
 Your contribution is **100% dedicated to artistic production**. It serves exclusively to remunerate the external talent bringing Erudit to life.
 
-**Illustrator (€1,200)**: 1 visual theme & 3 scene illustrations.
-**Composer (€300)**: Bespoke composition to carry the emotion.
-**Taxes & Fees (~€760)**: Covering the "invisible costs" so the artists get paid in full.
+**Illustrator (€1,200)**: 1 visual theme & 3 scene illustrations.  
+**Composer (€300)**: Bespoke composition to carry the emotion.  
+**Taxes & Fees (~€760)**: Covering the "invisible costs" so the artists get paid in full.  
 **TOTAL Goal per Story: ~€2,260**
 
 By backing us, you become a **co-producer**. You actively support the creative community and shape the future of Erudit.
